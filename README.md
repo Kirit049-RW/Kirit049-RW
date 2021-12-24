@@ -3,7 +3,7 @@
 ## I'm a French Student !
 
 - 🌱 I’m currently coding in javascript
-- ⚡ Fun fact: I love to watch anime and listen music
+- ⚡ Fun fact: I love to watch anime and to listen music
 
 ### Connect with me :
 
@@ -26,4 +26,4 @@
 
 ---
 
-[![Kirito's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kirit049-RW&hide=prs,stars&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=1800&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
+[![Kirito's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kirit049-RW&hide=prs,stars&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
