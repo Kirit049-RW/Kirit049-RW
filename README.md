@@ -34,11 +34,4 @@
 
 [![Kirito's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kirit049-RW&hide=prs,stars&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
 
- <p align="center"></p>
-<div align="center">
-    <a href="https://github.com/Kirit049-RW">
-      <img height="175em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirit049-RW&lang=FR&theme=radical&bg_color=000000&langs_count=7"/>
-    </a>
-</div>
-
 Take my private repo into account please 😭
