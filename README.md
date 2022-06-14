@@ -1,5 +1,11 @@
 ### Hi there, I'm Kirito 👋 
 
+<p align="center">
+  <a align="center" href="https://discords.com/bio/p/Kirito." target="_blank">
+    <img align="center" src="https://discord.c99.nl/widget/theme-2/370647365532647424.png"/>
+  </a>
+</p>
+
 ## I'm a French Student !
 
 - 🌱 I’m currently coding in javascript
