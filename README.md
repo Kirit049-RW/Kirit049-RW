@@ -1,7 +1,7 @@
 ### Hi there, I'm Kirito 👋 
 
 <p align="center">
-  <a align="center" href="https://discords.com/bio/p/Kirito." target="_blank">
+  <a align="center" href="https://discords.com/bio/p/kirit049" target="_blank">
     <img align="center" src="https://discord.c99.nl/widget/theme-2/370647365532647424.png"/>
   </a>
 </p>
