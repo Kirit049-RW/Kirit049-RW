@@ -34,7 +34,7 @@
 
 | Project | Time | State |
 |:---:|:---:|:---:|
-| [Fantasy: Idle Quest](https://www.botmarket.ovh) | [![wakatime](https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/ba6fc04b-8a3d-4936-83e4-0cdc7e82f09c.svg?style=for-the-badge)](https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/ba6fc04b-8a3d-4936-83e4-0cdc7e82f09c) | Personal |
+| [Fantasy: Idle Quest](https://www.botmarket.ovh) | [![wakatime](https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/ba6fc04b-8a3d-4936-83e4-0cdc7e82f09c.svg?style=for-the-badge)](https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/ba6fc04b-8a3d-4936-83e4-0cdc7e82f09c) | Paid |
 
 <br />
 <br />
