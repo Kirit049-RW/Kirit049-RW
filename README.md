@@ -27,6 +27,9 @@
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
+<br />
+<br />
+
 ---
 
 | Project | Time | State |
@@ -34,9 +37,6 @@
 | [Tomabot](https://www.botmarket.ovh) | [![wakatime](https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/944f60de-ac2c-4eb8-bd52-04733f29bde3.svg)](https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/944f60de-ac2c-4eb8-bd52-04733f29bde3) | Personal |
 | [AstroGames](https://www.botmarket.ovh) | [![wakatime](https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/ccfe1c40-8e8a-42f4-95f8-2393f8e2b481.svg)](https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/ccfe1c40-8e8a-42f4-95f8-2393f8e2b481) | Personal |
 | [Fantasy: Idle Quest](https://www.botmarket.ovh) | [![wakatime](https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/ba6fc04b-8a3d-4936-83e4-0cdc7e82f09c.svg?style=for-the-badge)](https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/ba6fc04b-8a3d-4936-83e4-0cdc7e82f09c) | Paid |
-
-<br />
-<br />
 
 ---
 
