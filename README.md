@@ -37,7 +37,7 @@
 | [Tomabot](https://www.botmarket.ovh) | [![wakatime](https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/944f60de-ac2c-4eb8-bd52-04733f29bde3.svg)](https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/944f60de-ac2c-4eb8-bd52-04733f29bde3) | Personal |
 | [AstroGames](https://www.botmarket.ovh) | [![wakatime](https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/ccfe1c40-8e8a-42f4-95f8-2393f8e2b481.svg)](https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/ccfe1c40-8e8a-42f4-95f8-2393f8e2b481) | Personal |
 | [Fantasy: Idle Quest](https://www.botmarket.ovh) | [![wakatime](https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/ba6fc04b-8a3d-4936-83e4-0cdc7e82f09c.svg?style=for-the-badge)](https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/ba6fc04b-8a3d-4936-83e4-0cdc7e82f09c) | Paid |
-
+| [Fantasy: Idle Quest Api](https://www.botmarket.ovh) | [![wakatime](https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/4a4c0ea5-816d-431c-b24d-979fe992b97f.svg)](https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/4a4c0ea5-816d-431c-b24d-979fe992b97f) | Paid |
 ---
 
 [![Kirito's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kirit049-RW&hide=prs,stars&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
