@@ -8,7 +8,7 @@
 
 ## I'm a French Student !
 
-- 🌱 I’m currently coding in javascript
+- 🌱 I’m a backend developer, coding in javascript
 - ⚡ Fun fact: I love to watch anime and to listen music
 
 ### Connect with me :
