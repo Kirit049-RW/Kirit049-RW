@@ -50,4 +50,4 @@
 
 ---
 
-https://github-readme-stats-kirit049-rws-projects.vercel.app/api/top-langs?username=Kirit049-RW&layout=compact
+![Top Langs](https://github-readme-stats-kirit049-rws-projects.vercel.app/api/top-langs?username=Kirit049-RW&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
