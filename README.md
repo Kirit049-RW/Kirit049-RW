@@ -13,6 +13,8 @@
 
 ### Connect with me :
 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Dwn5Nc6WgR) 
+[![Twitter](https://user-images.githubusercontent.com/8138585/255580473-e9e13421-89cf-445b-b2e2-e50e0864789f.svg?logo=discord&logoColor=white)](https://discord.gg/Dwn5Nc6WgR) 
 [<img align="left" alt="kirito_49 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/kirito_49)
 
 <br />
@@ -32,6 +34,8 @@
 <br />
 
 ---
+
+## My stats
 
 | Project | Time | State |
 |:---:|:---:|:---:|
