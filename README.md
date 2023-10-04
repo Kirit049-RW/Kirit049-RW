@@ -46,6 +46,4 @@
 [![wakatime](https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007.svg?style=for-the-badge)](https://wakatime.com/@84cc0761-0fb3-4653-acf0-e0deb255f007)
 ---
 
-[![Kirito's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kirit049-RW&hide=prs,stars&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
-
-Take my private repo into account please 😭
+[![Kirito's GitHub stats](https://github-readme-stats-kirit049-rws-projects.vercel.app/api?username=Kirit049-RW&show=reviews&number_format=long&hide=stars,issues&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
