@@ -13,6 +13,7 @@
 
 ### Connect with me :
 [<img align="left" alt="kirito_49 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/x.svg" />](https://x.com/kirito_49)
+[<img align="left" alt="kirito_49 | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/discord.svg" />](https://discord.gg/Dwn5Nc6WgR)
 
 <br />
 
