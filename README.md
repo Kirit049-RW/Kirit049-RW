@@ -39,6 +39,7 @@
 | [Tomabot](https://www.botmarket.ovh) | [![wakatime](https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/944f60de-ac2c-4eb8-bd52-04733f29bde3.svg?style=for-the-badge)](https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/944f60de-ac2c-4eb8-bd52-04733f29bde3) | Public |
 | [AstroGames](https://www.botmarket.ovh) | [![wakatime](https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/ccfe1c40-8e8a-42f4-95f8-2393f8e2b481.svg?style=for-the-badge)](https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/ccfe1c40-8e8a-42f4-95f8-2393f8e2b481) | Public |
 | [FormBot](https://www.botmarket.ovh) | [![wakatime](https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/09ee2561-c4cb-48fb-ba35-4ae7020e78b2.svg?style=for-the-badge)](https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/09ee2561-c4cb-48fb-ba35-4ae7020e78b2) | Public |
+| [VirtuoZ](https://www.botmarket.ovh) | [![wakatime](https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/7c0c072e-ac7a-40c4-b38d-325f443080ad.svg?style=for-the-badge)](https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/7c0c072e-ac7a-40c4-b38d-325f443080ad) | Public |
 | [BotController](https://www.botmarket.ovh) | [![wakatime](https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/afb7b7f5-e39c-4afc-a6db-674f4cc2395a.svg?style=for-the-badge)](https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/afb7b7f5-e39c-4afc-a6db-674f4cc2395a) | Private |
 | [Fantasy: Idle Quest](https://www.botmarket.ovh) | [![wakatime](https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/ba6fc04b-8a3d-4936-83e4-0cdc7e82f09c.svg?style=for-the-badge)](https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/ba6fc04b-8a3d-4936-83e4-0cdc7e82f09c) | Public |
 | [The Madness](https://www.botmarket.ovh) | [![wakatime](https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/bee37e37-c0e5-4b39-835b-d912ac976d1d.svg?style=for-the-badge)](https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/bee37e37-c0e5-4b39-835b-d912ac976d1d) | Private |
@@ -48,7 +49,7 @@
 [![wakatime](https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007.svg?style=for-the-badge)](https://wakatime.com/@84cc0761-0fb3-4653-acf0-e0deb255f007)
 ---
 
-[![Kirito's GitHub stats](https://github-readme-stats-kirit049-rws-projects.vercel.app/api?username=Kirit049-RW&show=reviews&number_format=long&hide=stars,issues&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://short.botmarket.ovh/botmarket)
+[![Kirito's GitHub stats](https://github-readme-stats-kirit049-rws-projects.vercel.app/api?username=Kirit049-RW&show=reviews&number_format=long&hide=stars,issues&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://botmarket.ovh/botmarket)
 ---
 
 [![Kirito's Top Langs](https://github-readme-stats-kirit049-rws-projects.vercel.app/api/top-langs?username=Kirit049-RW&layout=compact&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://botmarket.ovh/botmarket)
