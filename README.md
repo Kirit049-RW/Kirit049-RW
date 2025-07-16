@@ -6,7 +6,7 @@
   </a>
 </p>
 
-## I'm a French Student !
+## I'm a French engineer !
 
 - 🌱 I’m a backend developer, coding in javascript
 - ⚡ Fun fact: I love to watch anime and to listen music
