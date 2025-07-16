@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I love to watch anime and to listen music
 
 ### Connect with me :
-[<img align="left" alt="kirito_49 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/kirito_49)
+[<img align="left" alt="kirito_49 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/x.svg" />](https://x.com/kirito_49)
 
 <br />
 
