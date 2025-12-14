@@ -23,10 +23,15 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="IntelliJ IDEA" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" />
 <img align="left" alt="PhpStorm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/1200px-PhpStorm_Icon.svg.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original-wordmark.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/react/react-original.svg" />
+<img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-original-wordmark.svg" />
+<img align="left" alt="Electron" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/electron/electron-original-wordmark.svg" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" />
+<img align="left" alt="Debian" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" />
+
 
 <br />
 <br />
