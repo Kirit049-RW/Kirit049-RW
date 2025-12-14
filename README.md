@@ -8,7 +8,7 @@
 
 ## I'm a French engineer !
 
-- 🌱 I’m a fullstack developer, coding in mainly javascript & react
+- 🌱 I’m a fullstack developer, coding mainly in javascript & react
 - ⚡ Fun fact: I love to watch anime and to listen music
 
 ### Connect with me :
