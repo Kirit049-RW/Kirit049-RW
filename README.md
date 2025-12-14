@@ -8,7 +8,7 @@
 
 ## I'm a French engineer !
 
-- 🌱 I’m a backend developer, coding in javascript
+- 🌱 I’m a fullstack developer, coding in mainly javascript & react
 - ⚡ Fun fact: I love to watch anime and to listen music
 
 ### Connect with me :
@@ -42,7 +42,7 @@
 
 | Project | Time | State |
 |:---:|:---:|:---:|
-| [Tomabot](https://www.botmarket.ovh) | [![wakatime](https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/944f60de-ac2c-4eb8-bd52-04733f29bde3.svg?style=for-the-badge)](https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/944f60de-ac2c-4eb8-bd52-04733f29bde3) | Public |
+| [Tomabot](https://www.botmarket.ovh) | [![wakatime](https://wakatime.com/badge/github/Kirit049-RW/tomabot.svg)](https://wakatime.com/badge/github/Kirit049-RW/tomabot) | Public |
 | [AstroGames](https://uno.botmarket.ovh) | [![wakatime](https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/ccfe1c40-8e8a-42f4-95f8-2393f8e2b481.svg?style=for-the-badge)](https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/ccfe1c40-8e8a-42f4-95f8-2393f8e2b481) | Public |
 | [FormBot](https://www.botmarket.ovh) | [![wakatime](https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/09ee2561-c4cb-48fb-ba35-4ae7020e78b2.svg?style=for-the-badge)](https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/09ee2561-c4cb-48fb-ba35-4ae7020e78b2) | Public |
 | [VirtuoZ](https://www.botmarket.ovh) | [![wakatime](https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/7c0c072e-ac7a-40c4-b38d-325f443080ad.svg?style=for-the-badge)](https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/7c0c072e-ac7a-40c4-b38d-325f443080ad) | Public |
