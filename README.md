@@ -251,7 +251,10 @@
 </tr>
 </table>
 
-<h1 align="center">👤 Profile Statistics</h1>
+<div align="center">
+  <strong>👤 Profile Statistics</strong>
+</div>
+
 <p align="center">
   <img
     src="https://github-readme-stats-kirit049-rws-projects.vercel.app/api?username=Kirit049-RW&show=reviews&number_format=long&hide=stars&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117"
