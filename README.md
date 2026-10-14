@@ -251,9 +251,8 @@
 </tr>
 </table>
 
-<div align="center">
-  <strong>👤 Profile Statistics</strong>
-</div>
+<h1 align="center">👤 Profile Statistics</h1>
+``
 
 <p align="center">
   <img
