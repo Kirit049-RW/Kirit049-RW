@@ -48,32 +48,32 @@
   <br>
 
    <li>
-    <b>Tomabot</b><br>
+     <b><a href="https://discord.com/oauth2/authorize?client_id=874736569024663602">Tomabot</a></b><br>
     <img src="https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/944f60de-ac2c-4eb8-bd52-04733f29bde3.svg" />
   </li>
   <br>
 
   <li>
-    <b>VirtuoZ</b><br>
+    <b><a href="https://discord.com/oauth2/authorize?client_id=1235953897089273936">VirtuoZ</a></b><br>
     <img src="https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/7c0c072e-ac7a-40c4-b38d-325f443080ad.svg" />
   </li>
   <br>
 
   <li>
-    <b>Fantasy: Idle Quest</b><br>
+    <b><a href="https://discord.com/oauth2/authorize?client_id=1072156783281446954">Fantasy: Idle Quest</a></b><br>
     <img src="https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/ba6fc04b-8a3d-4936-83e4-0cdc7e82f09c.svg" />
   </li>
   <br>
 
   <li>
     <b><a href="https://dashboard.botmarket.ovh">Lyra</a></b><br>
-    <img src="https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/56455e0f-0f4d-439b-aa8e-b3ab6d252816.svg" />
+    <img src="https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/09bf4ff0-cd89-4749-b4fd-e5635c8f1879.svg" />
   </li>
   <br>
 
   <li>
     <b><a href="https://github.com/Kirit049-RW/pelican-discord-bot">Pelican Manager</a></b><br>
-    <img src="https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/56455e0f-0f4d-439b-aa8e-b3ab6d252816.svg" />
+    <img src="https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/717829ef-fd0a-4027-9c10-00231c50446a.svg" />
   </li>
   <br>
 
