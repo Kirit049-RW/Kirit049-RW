@@ -203,7 +203,7 @@
 <!-- DEVOPS -->
 <td width="260" valign="top" align="center">
 
-<h3>🚀 DevOps & Infrastructure</h3>
+<h3>🚀 Infrastructure</h3>
 <br>
 
 <table align="center" cellspacing="0" cellpadding="6">
