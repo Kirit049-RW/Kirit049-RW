@@ -115,7 +115,7 @@
 <br>
 
 <div align="center">
-  <h3>⏱️ Total Development Time</h3>
+  <h2>⏱️ Total Development Time</h2>
 
   <a href="https://wakatime.com/@84cc0761-0fb3-4653-acf0-e0deb255f007">
     <img src="https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007.svg?style=for-the-badge" />
@@ -252,6 +252,8 @@
 
 <h1 align="center">👤 Profile Statistics</h1>
 
+<br>
+
 <p align="center">
   <img height="170" src="https://github-readme-stats-kirit049-rws-projects.vercel.app/api?username=Kirit049-RW&show=reviews&number_format=long&hide=stars&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117" />
   <img height="170" src="https://github-readme-stats-kirit049-rws-projects.vercel.app/api/top-langs?username=Kirit049-RW&layout=compact&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117" />
@@ -265,7 +267,7 @@
 <!-- LEFT: BOTMARKET -->
 <td width="50%" valign="top">
 
-<h2>🚀 BotMarket</h2>
+<h2 align="center">🚀 BotMarket</h2>
 
 BotMarket is an organization focused on the Discord ecosystem, developing bots, APIs, and services for communities and developers.
 
@@ -278,11 +280,11 @@ BotMarket is an organization focused on the Discord ecosystem, developing bots, 
 
 <br>
 
-<a href="https://botmarket.ovh">
+<a align="center" href="https://botmarket.ovh">
   <img src="https://img.shields.io/badge/Website-botmarket.ovh-5865F2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="BotMarket Website">
 </a>
 
-<a href="https://discord.gg/Dwn5Nc6WgR">
+<a align="center" href="https://discord.gg/Dwn5Nc6WgR">
   <img src="https://img.shields.io/badge/Discord-Join%20the%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server">
 </a>
 
@@ -291,15 +293,15 @@ BotMarket is an organization focused on the Discord ecosystem, developing bots, 
 <!-- RIGHT: CONTACT -->
 <td width="50%" valign="top" align="center">
 
-<h2>📫 Contact</h2>
+<h2 align="center">📫 Contact</h2>
 
 <br>
 
-<a href="mailto:kirito@botmarket.ovh">
+<a align="center" href="mailto:kirito@botmarket.ovh">
   <img src="https://img.shields.io/badge/Email-kirito@botmarket.ovh-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
-<a href="https://discord.com/users/370647365532647424">
+<a align="center" href="https://discord.com/users/370647365532647424">
   <img src="https://img.shields.io/badge/Discord-kirito49.-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 </a>
 
