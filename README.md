@@ -22,62 +22,52 @@
   </a>
 </p>
 
+<br>
+
 [![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/Kirit049-RW)
 
-<h2>📊 Project Statistics</h2>
+<h2 align="center">📊 Project Statistics</h2>
 
-<table width="100%">
+<table align="center" width="90%">
 <tr>
 <td width="50%" valign="top">
 
-<h3>🌐 Public Projects</h3>
+<h3 align="center">🌐 Public Projects</h3>
 
 <ul>
   <li>
     <b><a href="https://botmarket.ovh">Tomabot</a></b><br>
-    <img src="https://img.shields.io/badge/Status-Public-success?style=flat-square">
-    <br>
-    <img src="https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/944f60de-ac2c-4eb8-bd52-04733f29bde3.svg">
+    <img src="https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/944f60de-ac2c-4eb8-bd52-04733f29bde3.svg" />
   </li>
   <br>
 
   <li>
     <b><a href="https://uno.botmarket.ovh">AstroGames</a></b><br>
-    <img src="https://img.shields.io/badge/Status-Public-success?style=flat-square">
-    <br>
-    <img src="https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/ccfe1c40-8e8a-42f4-95f8-2393f8e2b481.svg">
+    <img src="https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/ccfe1c40-8e8a-42f4-95f8-2393f8e2b481.svg" />
   </li>
   <br>
 
   <li>
     <b><a href="https://forms.botmarket.ovh">FormBot</a></b><br>
-    <img src="https://img.shields.io/badge/Status-Public-success?style=flat-square">
-    <br>
-    <img src="https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/09ee2561-c4cb-48fb-ba35-4ae7020e78b2.svg">
-  </li>
-  <br>
-
-  <li>
-    <b><a href="https://magic-bot.ovh">Magic Bot</a></b><br>
-    <img src="https://img.shields.io/badge/Status-Public-success?style=flat-square">
-    <br>
-    <img src="https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/56455e0f-0f4d-439b-aa8e-b3ab6d252816.svg">
-  </li>
-  <br>
-
-  <li>
-    <b><a href="https://docs.magic-bot.ovh">Magic Bot API</a></b><br>
-    <img src="https://img.shields.io/badge/Status-Public-success?style=flat-square">
-    <br>
-    <img src="https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/c2085976-5eb9-49a2-8ba4-0a438b6f3978.svg">
+    <img src="https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/09ee2561-c4cb-48fb-ba35-4ae7020e78b2.svg" />
   </li>
   <br>
 
   <li>
     <b>Fantasy: Idle Quest</b><br>
-    <img src="https://img.shields.io/badge/Status-Public-success?style=flat-square">
-    <br>
-    <img src="https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/ba6fc04b-8a3d-4936-83e4-0cdc7e82f09c.svg">
+    <img src="https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/ba6fc04b-8a3d-4936-83e4-0cdc7e82f09c.svg" />
+  </li>
+  <br>
+
+  <li>
+    <b><a href="https://magic-bot.ovh">Magic Bot</a></b><br>
+    <img src="https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/56455e0f-0f4d-439b-aa8e-b3ab6d252816.svg" />
+  </li>
+  <br>
+
+  <li>
+    <b><a href="https://docs.magic-bot.ovh">Magic Bot API</a></b><br>
+    <img src="https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/c2085976-5eb9-49a2-8ba4-0a438b6f3978.svg" />
   </li>
 </ul>
 
@@ -85,44 +75,42 @@
 
 <td width="50%" valign="top">
 
-<h3>🔒 Private Projects</h3>
+<h3 align="center">🔒 Private Projects</h3>
 
 <ul>
   <li>
     <b>VirtuoZ</b><br>
-    <img src="https://img.shields.io/badge/Status-Private-red?style=flat-square">
-    <br>
-    <img src="https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/7c0c072e-ac7a-40c4-b38d-325f443080ad.svg">
+    <img src="https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/7c0c072e-ac7a-40c4-b38d-325f443080ad.svg" />
   </li>
   <br>
 
   <li>
     <b>BotController</b><br>
-    <img src="https://img.shields.io/badge/Status-Private-red?style=flat-square">
-    <br>
-    <img src="https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/afb7b7f5-e39c-4afc-a6db-674f4cc2395a.svg">
+    <img src="https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/afb7b7f5-e39c-4afc-a6db-674f4cc2395a.svg" />
   </li>
   <br>
 
   <li>
     <b>The Madness</b><br>
-    <img src="https://img.shields.io/badge/Status-Private-red?style=flat-square">
-    <br>
-    <img src="https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/bee37e37-c0e5-4b39-835b-d912ac976d1d.svg">
+    <img src="https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/bee37e37-c0e5-4b39-835b-d912ac976d1d.svg" />
   </li>
 </ul>
-
-<br>
-
-<h3>⏱️ Total Development Time</h3>
-
-<a href="https://wakatime.com/@84cc0761-0fb3-4653-acf0-e0deb255f007">
-  <img src="https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007.svg?style=for-the-badge">
-</a>
 
 </td>
 </tr>
 </table>
+
+<br>
+
+<div align="center">
+
+### ⏱️ Total Development Time
+
+<a href="https://wakatime.com/@84cc0761-0fb3-4653-acf0-e0deb255f007">
+  <img src="https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007.svg?style=for-the-badge" />
+</a>
+
+</div>
 
 [![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/Kirit049-RW)
 
