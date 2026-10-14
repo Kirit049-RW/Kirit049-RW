@@ -285,8 +285,6 @@ BotMarket is an organization focused on the Discord ecosystem, developing bots, 
     <img src="https://img.shields.io/badge/Website-botmarket.ovh-5865F2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="BotMarket Website">
   </a>
 
-  <br><br>
-
   <a href="https://discord.gg/Dwn5Nc6WgR">
     <img src="https://img.shields.io/badge/Discord-Join%20the%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server">
   </a>
