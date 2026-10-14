@@ -127,7 +127,7 @@
 [![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/Kirit049-RW)
 
 
-<table>
+<table align="center" width="90%">
 <tr>
 
 <!-- FRONTEND -->
@@ -140,6 +140,7 @@
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/react/react-original-wordmark.svg" width="48" alt="React"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="48" alt="Tailwind CSS"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/css3/css3-original-wordmark.svg" width="48" alt="CSS"/></td>
   </tr>
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-original.svg" width="48" alt="HTML5"/></td>
@@ -163,6 +164,7 @@
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/discordjs/discordjs-original.svg" width="48" alt="Discord.js"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/electron/electron-original-wordmark.svg" width="48" alt="Electron"/></td>
+    <td/></td>
   </tr>
 </table>
 
@@ -178,12 +180,10 @@
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48" alt="PostgreSQL"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mysql/mysql-original-wordmark.svg" width="48" alt="MySQL"/></td>
-  </tr>
-  <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mariadb/mariadb-original-wordmark.svg" width="48" alt="MariaDB"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/sqlite/sqlite-original-wordmark.svg" width="48" alt="SQLite"/></td>
   </tr>
   <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/sqlite/sqlite-original-wordmark.svg" width="48" alt="SQLite"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mongodb/mongodb-original-wordmark.svg" width="48" alt="MongoDB"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/redis/redis-original-wordmark.svg" width="48" alt="Redis"/></td>
   </tr>
@@ -223,11 +223,11 @@
 <table align="center" cellspacing="0" cellpadding="6">
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/github/github-original.svg" width="48" alt="GitHub"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vscode/vscode-original-wordmark.svg" width="48" alt="VS Code"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-original-wordmark.svg" width="48" alt="Git"/></td>
   </tr>
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/intellij/intellij-original.svg" width="48" alt="IntelliJ IDEA"/></td>
-    <td></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vscode/vscode-original-wordmark.svg" width="48" alt="VS Code"/></td>
   </tr>
 </table>
 
@@ -251,13 +251,18 @@
 </tr>
 </table>
 
-### 📊 Statistics
-<p align="center">
-  <img src="https://github-readme-stats-kirit049-rws-projects.vercel.app/api?username=Kirit049-RW&show=reviews&number_format=long&hide=stars&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117" alt="Kirito's GitHub stats" />
-</p>
+<h1 align="center">👤 Profile Statistics</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats-kirit049-rws-projects.vercel.app/api/top-langs?username=Kirit049-RW&layout=compact&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117" alt="Kirito's Top Langs" />
+  <img
+    src="https://github-readme-stats-kirit049-rws-projects.vercel.app/api?username=Kirit049-RW&show=reviews&number_format=long&hide=stars&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117"
+    height="170"
+  />
+
+  <img
+    src="https://github-readme-stats-kirit049-rws-projects.vercel.app/api/top-langs?username=Kirit049-RW&layout=compact&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117"
+    height="170"
+  />
 </p>
 
 [![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/Kirit049-RW)
