@@ -26,7 +26,9 @@
 
 [![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/Kirit049-RW)
 
-<h1 align="center">📊 Project Statistics</h1>
+<p align="center">
+  <strong>📊 Project Statistics</strong>
+</p>
 
 <table align="center" width="90%">
 <tr>
@@ -115,7 +117,9 @@
 <br>
 
 <div align="center">
-  <h1>⏱️ Total Development Time</h1>
+  <p align="center">
+    <strong>⏱️ Total Development Time</strong>
+  </p>
 
   <a href="https://wakatime.com/@84cc0761-0fb3-4653-acf0-e0deb255f007">
     <img src="https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007.svg?style=for-the-badge" />
@@ -252,7 +256,9 @@
 
 [![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/Kirit049-RW)
 
-<h2 align="center">👤 Profile Statistics</h2>
+<p align="center">
+  <strong>👤 Profile Statistics</strong>
+</p>
 
 <br>
 
@@ -263,7 +269,9 @@
 
 [![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/Kirit049-RW)
 
-<h1 align="center">🤝 Community & Contact</h1>
+<p align="center">
+  <strong>🤝 Community & Contact</strong>
+</p>
 
 <table width="100%" border="0" cellspacing="10" cellpadding="0">
 <tr>
