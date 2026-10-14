@@ -295,15 +295,17 @@ BotMarket is an organization focused on the Discord ecosystem, developing bots, 
 </td>
 
 <!-- RIGHT: CONTACT -->
-<td width="50%" valign="middle" align="center">
+<td width="50%" valign="top" align="center">
 
 <h2 align="center">📫 Contact</h2>
 
-<br>
+<br><br><br><br>
 
 <a align="center" href="mailto:kirito@botmarket.ovh">
   <img src="https://img.shields.io/badge/Email-kirito@botmarket.ovh-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
+
+<br><br>
 
 <a align="center" href="https://discord.com/users/370647365532647424">
   <img src="https://img.shields.io/badge/Discord-kirito49.-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
