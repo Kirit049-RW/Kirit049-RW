@@ -26,9 +26,8 @@
 
 [![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/Kirit049-RW)
 
-<p align="center">
-  <strong style="font-size:128px;">📊 Project Statistics</strong>
-</p>
+<h1 align="center">📊 Project Statistics</h1>
+
 <table align="center" width="90%">
 <tr>
 <td width="50%" valign="top">
@@ -36,9 +35,9 @@
 <h3 align="center">🌐 Public Projects</h3>
 
 <ul>
-  <li>
-    <b><a href="https://botmarket.ovh">Tomabot</a></b><br>
-    <img src="https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/944f60de-ac2c-4eb8-bd52-04733f29bde3.svg" />
+   <li>
+    <b><a href="https://forms.botmarket.ovh">FormBot</a></b><br>
+    <img src="https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/09ee2561-c4cb-48fb-ba35-4ae7020e78b2.svg" />
   </li>
   <br>
 
@@ -48,15 +47,33 @@
   </li>
   <br>
 
+   <li>
+    <b>Tomabot</b><br>
+    <img src="https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/944f60de-ac2c-4eb8-bd52-04733f29bde3.svg" />
+  </li>
+  <br>
+
   <li>
-    <b><a href="https://forms.botmarket.ovh">FormBot</a></b><br>
-    <img src="https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/09ee2561-c4cb-48fb-ba35-4ae7020e78b2.svg" />
+    <b>VirtuoZ</b><br>
+    <img src="https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/7c0c072e-ac7a-40c4-b38d-325f443080ad.svg" />
   </li>
   <br>
 
   <li>
     <b>Fantasy: Idle Quest</b><br>
     <img src="https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/ba6fc04b-8a3d-4936-83e4-0cdc7e82f09c.svg" />
+  </li>
+  <br>
+
+  <li>
+    <b><a href="https://dashboard.botmarket.ovh">Lyra</a></b><br>
+    <img src="https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/56455e0f-0f4d-439b-aa8e-b3ab6d252816.svg" />
+  </li>
+  <br>
+
+  <li>
+    <b><a href="https://github.com/Kirit049-RW/pelican-discord-bot">Pelican Manager</a></b><br>
+    <img src="https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/56455e0f-0f4d-439b-aa8e-b3ab6d252816.svg" />
   </li>
   <br>
 
@@ -79,12 +96,6 @@
 <h3 align="center">🔒 Private Projects</h3>
 
 <ul>
-  <li>
-    <b>VirtuoZ</b><br>
-    <img src="https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/7c0c072e-ac7a-40c4-b38d-325f443080ad.svg" />
-  </li>
-  <br>
-
   <li>
     <b>BotController</b><br>
     <img src="https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007/project/afb7b7f5-e39c-4afc-a6db-674f4cc2395a.svg" />
