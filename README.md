@@ -24,7 +24,7 @@
 
 <br>
 
-[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/Kirit049-RW)
+
 
 <h1 align="center">📊 Project Statistics</h1>
 
@@ -116,7 +116,7 @@
 
 <div align="center">
 
-### ⏱️ Total Development Time
+<h3>⏱️ Total Development Time</h3>
 
 <a href="https://wakatime.com/@84cc0761-0fb3-4653-acf0-e0deb255f007">
   <img src="https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007.svg?style=for-the-badge" />
@@ -252,7 +252,6 @@
 </table>
 
 <h1 align="center">👤 Profile Statistics</h1>
-``
 
 <p align="center">
   <img
