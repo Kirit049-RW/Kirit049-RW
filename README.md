@@ -252,9 +252,7 @@
 
 [![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/Kirit049-RW)
 
-<p align="center">
-  <b><font size="7">👤 Profile Statistics</font></b>
-</p>
+<h2 align="center">👤 Profile Statistics</h2>
 
 <br>
 
