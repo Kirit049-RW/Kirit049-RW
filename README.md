@@ -145,6 +145,7 @@
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-original.svg" width="48" alt="HTML5"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vite/vite-original-wordmark.svg" width="48" alt="Vite"/></td>
+    <td/></td>
   </tr>
 </table>
 
@@ -164,7 +165,6 @@
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/discordjs/discordjs-original.svg" width="48" alt="Discord.js"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/electron/electron-original-wordmark.svg" width="48" alt="Electron"/></td>
-    <td/></td>
   </tr>
 </table>
 
