@@ -115,7 +115,7 @@
 <br>
 
 <div align="center">
-  <h2>⏱️ Total Development Time</h2>
+  <h1>⏱️ Total Development Time</h1>
 
   <a href="https://wakatime.com/@84cc0761-0fb3-4653-acf0-e0deb255f007">
     <img src="https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007.svg?style=for-the-badge" />
@@ -123,6 +123,8 @@
 </div>
 
 [![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/Kirit049-RW)
+
+<h1 align="center">🛠️ Technology Stack</h1>
 
 <table align="center" width="90%">
 <tr>
