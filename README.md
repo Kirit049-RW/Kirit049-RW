@@ -133,30 +133,27 @@
 <!-- FRONTEND -->
 <td width="260" valign="top" align="center">
 
-<div align="center">
-  <h3>🎨 Frontend</h3>
-  <br>
+<h3>🎨 Frontend</h3>
+<br>
 
-  <table cellspacing="0" cellpadding="6">
-    <tr>
-      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/react/react-original-wordmark.svg" width="48" alt="React"/></td>
-      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="48" alt="Tailwind CSS"/></td>
-      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/css3/css3-original-wordmark.svg" width="48" alt="CSS"/></td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-original.svg" width="48" alt="HTML5"/></td>
-      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vite/vite-original-wordmark.svg" width="48" alt="Vite"/></td>
-      <td/></td>
-    </tr>
-  </table>
-</div>
+<table align="center" cellspacing="0" cellpadding="6">
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/react/react-original-wordmark.svg" width="48" alt="React"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="48" alt="Tailwind CSS"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/css3/css3-original-wordmark.svg" width="48" alt="CSS"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-original.svg" width="48" alt="HTML5"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vite/vite-original-wordmark.svg" width="48" alt="Vite"/></td>
+    <td/></td>
+  </tr>
+</table>
 
 </td>
 
 <!-- BACKEND -->
 <td width="260" valign="top" align="center">
 
-<div align="center">
 <h3>⚙️ Backend</h3>
 <br>
 
@@ -170,7 +167,6 @@
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/electron/electron-original-wordmark.svg" width="48" alt="Electron"/></td>
   </tr>
 </table>
-</div>
 
 </td>
 
@@ -256,7 +252,6 @@
 </table>
 
 <h1 align="center">👤 Profile Statistics</h1>
-
 <p align="center">
   <img
     src="https://github-readme-stats-kirit049-rws-projects.vercel.app/api?username=Kirit049-RW&show=reviews&number_format=long&hide=stars&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117"
