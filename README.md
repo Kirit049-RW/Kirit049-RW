@@ -26,9 +26,7 @@
 
 [![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/Kirit049-RW)
 
-<div align="center">
-  <h1 align="center">📊 Project Statistics</h1>
-</div>
+<h1 align="center">📊 Project Statistics</h1>
 
 <table align="center" width="90%">
 <tr>
@@ -117,17 +115,14 @@
 <br>
 
 <div align="center">
+  <h3>⏱️ Total Development Time</h3>
 
-<h3>⏱️ Total Development Time</h3>
-
-<a href="https://wakatime.com/@84cc0761-0fb3-4653-acf0-e0deb255f007">
-  <img src="https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007.svg?style=for-the-badge" />
-</a>
-
+  <a href="https://wakatime.com/@84cc0761-0fb3-4653-acf0-e0deb255f007">
+    <img src="https://wakatime.com/badge/user/84cc0761-0fb3-4653-acf0-e0deb255f007.svg?style=for-the-badge" />
+  </a>
 </div>
 
 [![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/Kirit049-RW)
-
 
 <table align="center" width="90%">
 <tr>
@@ -256,15 +251,8 @@
 <h1 align="center">👤 Profile Statistics</h1>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats-kirit049-rws-projects.vercel.app/api?username=Kirit049-RW&show=reviews&number_format=long&hide=stars&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117"
-    height="170"
-  />
-
-  <img
-    src="https://github-readme-stats-kirit049-rws-projects.vercel.app/api/top-langs?username=Kirit049-RW&layout=compact&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117"
-    height="170"
-  />
+  <img height="170" src="https://github-readme-stats-kirit049-rws-projects.vercel.app/api?username=Kirit049-RW&show=reviews&number_format=long&hide=stars&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117" />
+  <img height="170" src="https://github-readme-stats-kirit049-rws-projects.vercel.app/api/top-langs?username=Kirit049-RW&layout=compact&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117" />
 </p>
 
 [![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/Kirit049-RW)
