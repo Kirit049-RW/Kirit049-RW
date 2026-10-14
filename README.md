@@ -133,10 +133,11 @@
 <!-- FRONTEND -->
 <td width="260" valign="top" align="center">
 
-<h3>🎨 Frontend</h3>
-<br>
+<div align="center">
+  <h3>🎨 Frontend</h3>
+  <br>
 
-<table align="center" cellspacing="0" cellpadding="6">
+<table cellspacing="0" cellpadding="6">
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/react/react-original-wordmark.svg" width="48" alt="React"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="48" alt="Tailwind CSS"/></td>
@@ -148,6 +149,7 @@
     <td/></td>
   </tr>
 </table>
+</div>
 
 </td>
 
