@@ -128,7 +128,9 @@
 
 [![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/Kirit049-RW)
 
-<h1 align="center">🛠️ Technology Stack</h1>
+  <p align="center">
+    <strong>🛠️ Technology Stack</strong>
+  </p>
 
 <table align="center" width="90%">
 <tr>
@@ -259,8 +261,6 @@
 <p align="center">
   <strong>👤 Profile Statistics</strong>
 </p>
-
-<br>
 
 <p align="center">
   <img height="170" src="https://github-readme-stats-kirit049-rws-projects.vercel.app/api?username=Kirit049-RW&show=reviews&number_format=long&hide=stars&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117" />
