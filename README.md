@@ -2,7 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Kirito&fontSize=70&animation=twinkling" alt="Kirito profile header" />
 </p>
 
-![Hi there, I'm Kirito 👋](https://readmes.pages.dev/text/say/Hi%20there%2C%20I'm%20Kirito%20%F0%9F%91%8B/typing/color-2bb3a3/sparkles/card)
+<p align="center">
+  <img src="https://readmes.pages.dev/text/say/Hi%20there%2C%20I'm%20Kirito%20%F0%9F%91%8B/typing/color-2bb3a3/sparkles/card" alt="Kirito profile title" />
+</p>
+
+<br>
 
 <p align="center">
 <samp>
