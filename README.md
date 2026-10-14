@@ -280,7 +280,7 @@ BotMarket is an organization focused on the Discord ecosystem, developing bots, 
 
 <br>
 
-<p align="center">
+<div align="center">
   <a href="https://botmarket.ovh">
     <img src="https://img.shields.io/badge/Website-botmarket.ovh-5865F2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="BotMarket Website">
   </a>
@@ -290,12 +290,12 @@ BotMarket is an organization focused on the Discord ecosystem, developing bots, 
   <a href="https://discord.gg/Dwn5Nc6WgR">
     <img src="https://img.shields.io/badge/Discord-Join%20the%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server">
   </a>
-</p>
+</div>
 
 </td>
 
 <!-- RIGHT: CONTACT -->
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="middle" align="center">
 
 <h2 align="center">📫 Contact</h2>
 
