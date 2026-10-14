@@ -24,9 +24,11 @@
 
 <br>
 
+[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/Kirit049-RW)
 
-
-<h1 align="center">📊 Project Statistics</h1>
+<div align="center">
+  <h1 align="center">📊 Project Statistics</h1>
+</div>
 
 <table align="center" width="90%">
 <tr>
