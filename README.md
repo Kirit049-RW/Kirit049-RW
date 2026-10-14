@@ -261,17 +261,16 @@
 <tr>
 
 <!-- LEFT: BOTMARKET -->
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 <h2>🚀 BotMarket</h2>
 
-BotMarket is an organization focused on the Discord ecosystem, developing bots, tools, APIs, and services for communities and developers.
+BotMarket is an organization focused on the Discord ecosystem, developing bots, APIs, and services for communities and developers.
 
 <ul>
   <li>🤖 Discord bot development</li>
-  <li>🌐 Web dashboards and management panels</li>
-  <li>⚡ APIs and automation tools</li>
-  <li>🏪 BotMarket ecosystem and community projects</li>
+  <li>⚡ APIs</li>
+  <li>🌐 Web dashboards</li>
   <li>🔧 Open-source utilities for Discord developers</li>
 </ul>
 
@@ -281,17 +280,6 @@ BotMarket is an organization focused on the Discord ecosystem, developing bots, 
   <img src="https://img.shields.io/badge/Website-botmarket.ovh-5865F2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="BotMarket Website">
 </a>
 
-</td>
-
-<!-- MIDDLE: PANEL -->
-<td width="34%" align="center" valign="middle">
-
-<a href="https://botmarket.ovh">
-  <img src="https://img.shields.io/badge/BotMarket-Visit%20Website-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="BotMarket">
-</a>
-
-<br><br>
-
 <a href="https://discord.gg/Dwn5Nc6WgR">
   <img src="https://img.shields.io/badge/Discord-Join%20the%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server">
 </a>
@@ -299,7 +287,7 @@ BotMarket is an organization focused on the Discord ecosystem, developing bots, 
 </td>
 
 <!-- RIGHT: CONTACT -->
-<td width="33%" valign="top" align="center">
+<td width="50%" valign="top" align="center">
 
 <h2>📫 Contact</h2>
 
@@ -309,16 +297,8 @@ BotMarket is an organization focused on the Discord ecosystem, developing bots, 
   <img src="https://img.shields.io/badge/Email-kirito@botmarket.ovh-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
-<br><br>
-
-<a href="https://discord.gg/Dwn5Nc6WgR">
-  <img src="https://img.shields.io/badge/Discord-kirito__49-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-</a>
-
-<br><br>
-
-<a href="https://botmarket.ovh">
-  <img src="https://img.shields.io/badge/Website-botmarket.ovh-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
+<a href="https://discord.com/users/370647365532647424">
+  <img src="https://img.shields.io/badge/Discord-kirito49.-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 </a>
 
 </td>
@@ -329,7 +309,7 @@ BotMarket is an organization focused on the Discord ecosystem, developing bots, 
 [![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/Kirit049-RW)
 
 <p align="center">
-⚡ jsp koi mettre ici hihi
+⚡Fancy a chat? Get in touch with me on Discord
 </p>
 
 <p align="center">
