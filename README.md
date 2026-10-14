@@ -248,6 +248,8 @@
 </tr>
 </table>
 
+[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/Kirit049-RW)
+
 <h1 align="center">👤 Profile Statistics</h1>
 
 <p align="center">
@@ -305,8 +307,6 @@ BotMarket is an organization focused on the Discord ecosystem, developing bots, 
 
 </tr>
 </table>
-
-[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/Kirit049-RW)
 
 <p align="center">
 ⚡Fancy a chat? Get in touch with me on Discord
