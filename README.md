@@ -24,7 +24,7 @@
 
 <br>
 
-[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/Kirit049-RW)
+[![divider_arc_reactor](https://raw.githubusercontent.com/Kirit049-RW/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/Kirit049-RW)
 
 <p align="center">
   <strong>📊 Project Statistics</strong>
@@ -126,7 +126,7 @@
   </a>
 </div>
 
-[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/Kirit049-RW)
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/Kirit049-RW/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/Kirit049-RW)
 
   <p align="center">
     <strong>🛠️ Technology Stack</strong>
@@ -256,7 +256,7 @@
 </tr>
 </table>
 
-[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/Kirit049-RW)
+[![divider_twin_serpant](https://raw.githubusercontent.com/Kirit049-RW/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/Kirit049-RW)
 
 <p align="center">
   <strong>👤 Profile Statistics</strong>
@@ -267,7 +267,7 @@
   <img height="170" src="https://github-readme-stats-kirit049-rws-projects.vercel.app/api/top-langs?username=Kirit049-RW&layout=compact&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117" />
 </p>
 
-[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/Kirit049-RW)
+[![divider_twin_serpant](https://raw.githubusercontent.com/Kirit049-RW/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/Kirit049-RW)
 
 <p align="center">
   <strong>🤝 Community & Contact</strong>
