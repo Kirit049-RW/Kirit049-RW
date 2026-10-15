@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20on%20board&fontSize=70&animation=twinkling" alt="Kirito profile header" />
+  <img src="https://capsule-render-zeta.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20on%20board&fontSize=70&animation=twinkling" alt="Kirito profile header" />
 </p>
 
 <p align="center">
@@ -335,5 +335,5 @@ BotMarket is an organization focused on the Discord ecosystem, developing bots, 
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100" alt="Profile footer wave"/>
+  <img src="https://capsule-render-zeta.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100" alt="Profile footer wave"/>
 </p>
